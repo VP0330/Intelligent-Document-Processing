@@ -1,3 +1,10 @@
+fastapi
+uvicorn
+pymongo
+python-multipart
 openai
 easyocr
 Pillow
+numpy
+pdf2image
+pymupdf
