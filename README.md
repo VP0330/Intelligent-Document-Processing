@@ -7,17 +7,17 @@
 - Field extraction using OpenAI API
 
 ## Setup
-1. Install dependencies: pip install -r requirements.txt
+1. Install dependencies: 
    ```
-
+   pip install -r requirements.txt
    ```
 2. Set your OpenAI API key as an environment variable:
    ```
-set OPENAI_API_KEY=your_api_key_here
+   set OPENAI_API_KEY=your_api_key_here
    ```
 3. Run the main script:
    ```
-python main.py
+   python main.py
    ```
 
 ## Notes
