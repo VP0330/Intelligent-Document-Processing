@@ -1,4 +1,3 @@
-pip install -r requirements.txt
 # Intelligent Document Processing (IDP) Prototype
 
 This project is a proof-of-concept for intelligent document processing using OpenAI Vision and Streamlit. It allows you to upload a PDF, view a preview, extract OCR text using OpenAI's vision models, classify the document, and extract key fields—all in a modern web UI.
